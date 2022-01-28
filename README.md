@@ -3,9 +3,7 @@ This project involves 3D-reconstruction using deep learning, for use by the comp
 
 ### Relevant papers
 
-https://github.com/bmild/nerf \n
-https://github.com/NVlabs/instant-ngp \n
-https://github.com/sxyu/pixel-nerf \n
-https://github.com/codestella/putting-nerf-on-a-diet \n
-
-## 
+https://github.com/bmild/nerf
+https://github.com/NVlabs/instant-ngp 
+https://github.com/sxyu/pixel-nerf 
+https://github.com/codestella/putting-nerf-on-a-diet 
